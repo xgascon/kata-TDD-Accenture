@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/xgascon/kata-TDD-Accenture/issues"
   },
-  "homepage": "https://github.com/xgascon/kata-TDD-Accenture#readme"
+  "homepage": "https://github.com/xgascon/kata-TDD-Accenture#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
 }
